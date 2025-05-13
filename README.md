@@ -21,11 +21,11 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br /> -->
 <div align="center">
-  <a href="https://github.com/AbuTalha208/bookish-garbanzo">
+  <!-- <a href="https://github.com/AbuTalha208/bookish-garbanzo">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">bookish-garbanzo
 </h3>
