@@ -36,8 +36,8 @@
     <!-- <a href="https://github.com/AbuTalha208/bookish-garbanzo"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://github.com/AbuTalha208/bookish-garbanzo">View Demo</a>
-    &middot;
+    <!-- <a href="https://github.com/AbuTalha208/bookish-garbanzo">View Demo</a>
+    &middot; -->
     <a href="https://github.com/AbuTalha208/bookish-garbanzo/issues/new?template=bug_report.md">Report Bug</a>
     &middot;
     <a href="https://github.com/AbuTalha208/bookish-garbanzo/issues/new?template=feature_request.md">Request Feature</a>
