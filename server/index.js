@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.get('/ping', (req, res) => res.send('pong'));
+app.get('/ping', (req, res) => {res.json('pong');});
 
 const port = 3001;
 app.listen(port, () => {
